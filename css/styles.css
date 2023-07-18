@@ -61,7 +61,7 @@ body {
   font-size: 22px;
   line-height: 27px;
   color: #000;
-  margin: 0 0 8px 0;
+  margin: 0 0 15px 0;
 }
 
 /* Projects */
@@ -145,6 +145,10 @@ body {
 
 /* education */
 
+.education-box{
+  margin-bottom: 40px;
+}
+
 .study-place {
   font-style: normal;
   font-weight: 700;
@@ -192,7 +196,7 @@ body {
 .contactstype {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   color: #161d2a;
   margin-right: 8px;
@@ -203,7 +207,7 @@ body {
 .contacts-number {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   color: #161d2a;
 }
@@ -211,7 +215,7 @@ body {
 .contacts-email {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   color: #2979ff;
 }
