@@ -172,6 +172,7 @@ body {
 .sidebar {
   width: 370px;
   background-color: #e0ebfe;
+  padding: 25px 0;
 }
 
 .my-photo {
