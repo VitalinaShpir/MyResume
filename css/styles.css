@@ -191,19 +191,21 @@ body {
   font-size: 22px;
   line-height: 27px;
   color: #161d2a;
-  margin-bottom: 8px;
+  margin-bottom: 15px;
 }
 /* contacts */
-.contactstype {
+.contacts-list {
+  margin: 0;
+  padding: 0 0 0 12px;
+}
+
+.contacts-item {
+  margin-bottom: 8px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 18px;
   line-height: 24px;
   color: #161d2a;
-  margin-right: 8px;
-}
-.contacts-item {
-  margin: 0;
 }
 .contacts-number {
   font-style: normal;
